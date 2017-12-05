@@ -1,3 +1,2 @@
 # Website_Blocker
-Website_Blocker
-Testing code..
+This is a python application that blocks access to certain websites for some point of the day. There is a time limit that you can set (from_time and to_time in the code) for enabling or disabling access to websites. You can modify the list manually that has the name of the websites to be blocked. This program basically modifies the host file in Windows and Linux and then can be run in the background as a process.
